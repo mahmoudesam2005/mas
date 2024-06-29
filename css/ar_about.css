@@ -61,8 +61,8 @@ body {
     align-items: center;
     color: white;
     display: none;
+    z-index: 99999;
 }
-
 .scroll i {
     font-size: 25px;
     animation: arrow var(--main-transition) infinite alternate;
